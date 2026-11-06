@@ -6,7 +6,7 @@ PILA is a desktop application that simulates customers arriving at one or more s
 
 | Live simulation (Pygame) | Analytics dashboard (Tkinter + Matplotlib) |
 |---|---|
-| ![live](docs/images/live_simulation.png) | ![analytics](docs/images/ui_analytics.png) |
+| ![live](docs/images/livee_simulation.png) | ![analytics](docs/images/ui_analytics.png) |
 
 ## Features
 
