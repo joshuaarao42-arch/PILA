@@ -1,0 +1,5 @@
+Algorithm,Avg Waiting,Avg Turnaround,Avg Response,Max Waiting,Std Waiting,Max Queue,Avg Queue,Utilization %,Throughput,Makespan,Served
+FCFS,3.567,11.35,3.567,15.0,4.295,6,1.097,79.829,0.308,197.0,60
+Priority,3.25,11.033,3.25,26.0,5.635,6,1.0,79.829,0.308,197.0,60
+SJF,2.983,10.767,2.983,29.0,5.655,5,0.918,79.829,0.308,197.0,60
+Round Robin,5.45,13.233,1.817,21.0,6.179,8,1.677,79.829,0.308,197.0,60
